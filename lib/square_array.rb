@@ -1,5 +1,5 @@
 def square_array(array)
-  var i = 0
+  i = 0
  while(i < array.length()) do
    array[i] = i * array[i]
    i = i + 1
